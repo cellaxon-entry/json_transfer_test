@@ -1,0 +1,13 @@
+{
+    "name": "test",
+    "version": "0.1.0",
+    "description": "테스트",
+    "author": "CELLAXON Inc.",
+    "main": "./src/main.js",
+	"dependencies": {
+		"crc": "^4.3.2"
+	},
+    "scripts": {
+		"start": "node ./src/main.js"
+    }
+}
