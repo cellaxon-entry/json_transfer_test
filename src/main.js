@@ -186,7 +186,7 @@ let strJsonOriginal = `
       [
         {
           "id": "motion",
-          "desc": "1번 센서",
+          "desc": "동작",
           "value": "Move"
         },
         {
